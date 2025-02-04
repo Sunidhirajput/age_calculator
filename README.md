@@ -1,2 +1,2 @@
 # age_calculator
-age calculator using Html, css and javascript
+Age calculator using Html, css and javascript
